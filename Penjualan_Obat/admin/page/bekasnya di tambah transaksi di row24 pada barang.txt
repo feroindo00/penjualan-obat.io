@@ -1,0 +1,1 @@
+//<option value="<?php echo $b['nama_obat']; ?>"><!--<?php echo $b['nama_obat'] ?></option>!-->
